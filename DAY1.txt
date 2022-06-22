@@ -1,0 +1,33 @@
+Javascript - Day -1 : task
+
+1.TO READ
+a.Ans: 
+*	Statically typed languages are:
+•	Java
+•	C
+•	C++
+*	Dynamically typed languages are:
+•	Perl
+•	Ruby
+•	Python
+•	Php
+•	Javascript
+
+
+   b.Ans:
+*	Scripting languages:
+•	Javascript
+•	Perl
+•	Python
+*	Adv of scripting languages:
+•	Simple – scripting languages are easier to write than programming language
+•	Fewer lines of code(LOC)
+*	Programmed languages:
+•	C
+•	C++
+•	Java
+
+
+c.Ans:
+*	A Programming paradigm is a style, or “way“, of programming.
+
